@@ -43,9 +43,9 @@ function App() {
   return (
     <>
       <div className="wrapper">
-        <h2>The Random Flag Generator</h2>
+        <h2>The Random Flag Generator test</h2>
         <br></br>
-        <h4>Try it with pressing the button below!</h4>
+        <h4>Try it with fressing the button below!</h4>
         {typeof data !== "undefined" ? (
           <>
             <Flag
